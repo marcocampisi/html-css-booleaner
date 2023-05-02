@@ -15,6 +15,10 @@
     color: gray;
 }
 
+#fonti {
+    font-size: 14px;
+}
+
 #autore  {
     color: dodgerblue;
 }
@@ -33,7 +37,30 @@ tbody {
     background-color: white;
 }
 
-#consiglio {
+ #consiglio1 {
     color: gray;
     font-weight: bold;
+    margin: 10px;
+ }
+
+ #consiglio2 {
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    background-image: url("/img/graph.jpg");
+    background-size: cover;
+}
+
+#consiglio3 {
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    color: white;
+    font-weight: bold;
+    background-image: url("/img/monitor.jpg");
+    background-size: cover;
 }
