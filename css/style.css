@@ -18,3 +18,17 @@
 #autore  {
     color: dodgerblue;
 }
+
+thead {
+    background-color: deepskyblue;
+    color: white;
+    font-weight: bold;
+}
+
+tbody {
+    background-color: lightskyblue;
+}
+
+#riga-centrale {
+    background-color: white;
+}
