@@ -23,6 +23,10 @@
     color: dodgerblue;
 }
 
+.evidenziato {
+    background-color: yellow;
+}
+
 thead {
     background-color: deepskyblue;
     color: white;
