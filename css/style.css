@@ -1,6 +1,6 @@
 /* Per creare il banner ho applicato il pattern sullo sfondo */
 #banner { 
-    background-image: url("/img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-repeat: repeat;
     background-size: contain;
     background-color: dodgerblue;
@@ -55,7 +55,7 @@ tbody {
     width: 200px;
     color: white;
     font-weight: bold;
-    background-image: url("/img/graph.jpg");
+    background-image: url("../img/graph.jpg");
     background-size: cover;
 }
 
@@ -66,6 +66,6 @@ tbody {
     width: 200px;
     color: white;
     font-weight: bold;
-    background-image: url("/img/monitor.jpg");
+    background-image: url("../img/monitor.jpg");
     background-size: cover;
 }
