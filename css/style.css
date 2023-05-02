@@ -32,3 +32,8 @@ tbody {
 #riga-centrale {
     background-color: white;
 }
+
+#consiglio {
+    color: gray;
+    font-weight: bold;
+}
