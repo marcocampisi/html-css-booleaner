@@ -1,4 +1,5 @@
-#banner {
+/* Per creare il banner ho applicato il pattern sullo sfondo */
+#banner { 
     background-image: url("/img/pattern.png");
     background-repeat: repeat;
     background-size: contain;
@@ -46,7 +47,7 @@ tbody {
     font-weight: bold;
     margin: 10px;
  }
-
+/* Ho creato i consigliati applicando le immagini come sfondo al testo */
  #consiglio2 {
     padding: 10px;
     margin: 10px;
