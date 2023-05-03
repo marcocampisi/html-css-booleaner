@@ -1,15 +1,14 @@
 /* Per creare il banner ho applicato il pattern sullo sfondo */
 #banner { 
+    height: 100px;
     background-image: url("../img/pattern.png");
     background-repeat: repeat;
-    background-size: contain;
+    background-size: 30%;
     background-color: dodgerblue;
 }
 
 #logo {
-    height: 100px;
-    width: 400px;
-    margin-top: 5%;
+    height: 60px;
 }
 
 #info {
